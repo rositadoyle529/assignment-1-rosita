@@ -1,0 +1,49 @@
+ <style>
+
+ 	a href {
+
+ 		padding: 20px;
+ 	}
+    body {
+      text-align: center;
+      background-color: rgba(0, 255, 200, 1);
+      background-position: center;
+      color: black;
+      margin:; 0 auto;
+      max-width: 800px;
+      position: relative;
+      left: 250px;
+    }
+    p {
+      font-size: 16px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+    ul {
+      padding: 10px;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+
+   section class = "link"
+   
+   {
+      display: inline;
+      padding: 0px 10px 0px 10px;}
+
+      footer {
+      text-align:center;
+      font-style: italic;
+      font-size: 16px;
+    }
+   } 
+  </style>
